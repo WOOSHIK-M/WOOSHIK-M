@@ -1,6 +1,11 @@
 ## <center> Hi I'm wooshik! 👋 </center>
+I'm ML research engineer at Makinarocks.  
 
+### Contacts
+(kr) +82 01041029577  
+(cn) +86 13001282300  
 
+email: wooshik.m@gmail.com
 
 <!--
 **WOOSHIK-M/WOOSHIK-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
