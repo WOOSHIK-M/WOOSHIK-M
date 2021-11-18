@@ -2,9 +2,6 @@
 I'm ML research engineer at Makinarocks.  
 
 ### Contacts
-(kr) +82 01041029577  
-(cn) +86 13001282300  
-
 email: wooshik.m@gmail.com
 
 <!--
