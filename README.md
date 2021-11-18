@@ -4,16 +4,22 @@ I'm ML research engineer at Makinarocks.
 
 <br/>
 
-## <center> Tech Stack
+## <center> Tech Stack  </center>
 
+### Contacts
+email: wooshik.m@gmail.com
+
+
+<br/>
+
+---
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WOOSHIK-M&show_icons=true&theme=calm)
 <!-- Theme
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
- </center>
-### Contacts
-email: wooshik.m@gmail.com
+
 
 
 <!--
