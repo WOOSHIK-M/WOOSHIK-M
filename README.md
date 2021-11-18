@@ -4,7 +4,6 @@ I'm ML research engineer at Makinarocks.
 ### Contacts
 email: wooshik.m@gmail.com
 
-test
 
 <!--
 **WOOSHIK-M/WOOSHIK-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
