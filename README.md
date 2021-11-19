@@ -1,6 +1,6 @@
 <div align=center>
 	
-## Hi I'm wooshik! 👋 
+## Hi there! 👋 
 
 <b>🛠 Tech Stack 🛠</b></h2>  
 
@@ -22,7 +22,7 @@ Routing algorithm
 
 </div>
 
-<div align=center>  <b>Contacts</b></h2> 
+<div align=center>  <b>🌱 Contacts 🌱</b></h2> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/wooshik-myung-b0088a1b1/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100006421112520)
