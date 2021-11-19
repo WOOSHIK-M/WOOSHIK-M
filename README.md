@@ -1,9 +1,8 @@
+<div align=center>
+	
+## Hi I'm wooshik! 👋 
 
-## <center> Hi I'm wooshik! 👋 </center>
-I'm ML research engineer at Makinarocks.  
-
-
-<div align=center>  <b>🛠 Tech Stack 🛠</b></h2>  
+<b>🛠 Tech Stack 🛠</b></h2>  
 
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -14,12 +13,14 @@ I'm ML research engineer at Makinarocks.
 </div>
 
 
-<div align=center>  <b>Interest</b></h2>  </div>
+<div align=center> <b>🛠 Interest 🛠</b></h1>  
 
-* ML / DL / RL
-* Combinatorial Opitmization Problem
-* Network-on-Chip
-* Routing algorithm
+ML / DL / RL  
+Combinatorial Opitmization Problem  
+Network-on-Chip  
+Routing algorithm  
+
+</div>
 
 <div align=center>  <b>Contacts</b></h2> 
 
