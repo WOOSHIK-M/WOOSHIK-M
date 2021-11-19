@@ -13,7 +13,7 @@
 </div>
 
 
-<div align=center> <b👯 Interest 👯</b></h1>  
+<div align=center> <b>👯 Interest 👯</b></h1>  
 
 ML / DL / RL  
 Combinatorial Opitmization Problem  
