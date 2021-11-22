@@ -12,10 +12,11 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a> 
 </div>
 
-
 <div align=center> <b>👯 Interest 👯</b></h1>  
 
-ML / DL / RL  
+<br/>
+
+ML / DL / RL    
 Combinatorial Opitmization Problem  
 Network-on-Chip  
 Routing algorithm  
@@ -23,6 +24,8 @@ Routing algorithm
 </div>
 
 <div align=center>  <b>🌱 Contacts 🌱</b></h2> 
+
+<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/wooshik-myung-b0088a1b1/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100006421112520)
