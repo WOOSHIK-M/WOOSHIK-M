@@ -20,8 +20,8 @@
 
 <br/>
 
-Reinforcement Learning
-Distributional Computing
+Reinforcement Learning <br/>
+Distributional Computing <br/>
 Combinatorial Opitmization Problem
 
 </div>
