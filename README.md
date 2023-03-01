@@ -20,8 +20,9 @@
 
 <br/>
 
-ML / DL / RL    
-Combinatorial Opitmization Problem 
+Reinforcement Learning
+Distributional Computing
+Combinatorial Opitmization Problem
 
 </div>
 
