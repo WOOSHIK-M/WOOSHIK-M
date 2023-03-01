@@ -1,35 +1,37 @@
 <div align=center>
 	
-## Hi there! 👋 
+## Hi there!
 
-<b>🛠 Tech Stack 🛠</b></h2>  
+<b> ABOUT ME </b></h2> 
+
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://polar-red-b27.notion.site/d8db43b284bf4d53ab86935d4883610e)
+
+<b> Tech Stack </b></h2>  
 
 <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Markdown-00000?style=flat-square&logo=Markdown&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Markdown-00000?style=for-the-badge&logo=Markdown&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/></a> 
 </div>
 
-<div align=center> <b>👯 Interest 👯</b></h1>  
+<div align=center> <b> Interest </b></h1>  
 
 <br/>
 
 ML / DL / RL    
-Combinatorial Opitmization Problem  
-Network-on-Chip  
-Routing algorithm  
+Combinatorial Opitmization Problem 
 
 </div>
 
-<div align=center>  <b>🌱 Contacts 🌱</b></h2> 
+<div align=center>  <b> Contacts </b></h2> 
 
 <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/wooshik-myung-b0088a1b1/)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100006421112520)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:wooshik.m@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wooshik-myung-b0088a1b1/)](https://www.linkedin.com/in/wooshik-myung-b0088a1b1/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/profile.php?id=100006421112520)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wooshik.m@gmail.com)](mailto:wooshik.m@gmail.com)
 	
  </div>
 
