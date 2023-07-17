@@ -2,7 +2,7 @@
 	
 <b> ABOUT ME </b></h2> 
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://polar-mastodon-f5a.notion.site/42424af2f33249b58f974da76e99d198?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://wooshikm.notion.site/d2113c9f441f46938487f1131b71042b?pvs=4)
 
 
 <b> TECH STACK </b></h2>  
